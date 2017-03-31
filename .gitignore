@@ -1,2 +1,5 @@
 mysql*
-
+virtio-win*
+*.tar
+*.gz
+*.zip

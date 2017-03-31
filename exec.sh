@@ -1,5 +1,9 @@
 #!/bin/bash
 
+echo "##########################################"
+echo "# run this script in git bash of windows #"
+echo "##########################################"
+
 echo "----- show mysql version -----"
 winpty docker exec -it nano-mysql mysql --version
 
